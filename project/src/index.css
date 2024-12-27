@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #FBFF7A;
+    font-family: 'SF Pro Display', system-ui, -apple-system, sans-serif;
+  }
+}
